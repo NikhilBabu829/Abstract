@@ -107,3 +107,42 @@ table {
 	background-position: right;
 	box-shadow: 0px 4px 10px grey;
 }
+.secnd-sec{
+	height: 900px;
+	width: 100%;
+	background-color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 100px;
+	box-sizing: border-box;
+}
+.subsec-secnd{
+	display: flex;
+	width: 70%;
+}
+.branches{
+	display: flex;
+	flex-direction: row;
+}
+.branches-icnlay{
+	display: flex;
+	align-items: center;
+	margin: 20px;
+}
+.branches-txtlay{
+	margin: 20px;
+}
+.manage-acc{
+	display: flex;
+	flex-direction: row;
+}
+.acc-icnlay{
+	display: flex;
+	align-items: center;
+	margin: 20px;
+}
+.acc-txtlay{
+	margin: 20px;
+}
+
