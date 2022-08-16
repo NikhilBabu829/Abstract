@@ -145,4 +145,26 @@ table {
 .acc-txtlay{
 	margin: 20px;
 }
+.acc-txtlay-ttl{
+	margin: 15px 0px 15px 0px;
+}
+.acc-txtlay-info{
+	margin: 15px 0px 15px 0px;
+
+}
+.acc-txtlay-lrnmr{
+	margin: 15px 0px 15px 0px;
+}
+.branches-txtlay-ttl{
+	margin: 15px 0px 15px 0px;
+
+}
+.branches-txtlay-info{
+	margin: 15px 0px 15px 0px;
+
+}
+.branches-txtlay-lrnmr{
+
+	margin: 15px 0px 15px 0px;
+}
 
