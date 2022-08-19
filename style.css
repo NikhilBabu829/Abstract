@@ -107,64 +107,34 @@ table {
 	background-position: right;
 	box-shadow: 0px 4px 10px grey;
 }
-.secnd-sec{
-	height: 900px;
+.after-fstsec{
 	width: 100%;
-	background-color: white;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	padding: 100px;
+	height: 800px;
 	box-sizing: border-box;
-}
-.subsec-secnd{
-	display: flex;
-	width: 70%;
+	padding-left: 200px;
+	padding-right: 200px;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	gap: 10px;
 }
 .branches{
 	display: flex;
 	flex-direction: row;
-}
-.branches-icnlay{
-	display: flex;
 	align-items: center;
-	margin: 20px;
 }
-.branches-txtlay{
-	margin: 20px;
+.exm{
+	margin: 10px;
 }
-.manage-acc{
-	display: flex;
-	flex-direction: row;
+.exm h6{
+	font-weight: bold;
+	margin: 10px;
 }
-.acc-icnlay{
-	display: flex;
-	align-items: center;
-	margin: 20px;
+.exm p{
+	font-weight: 200;
+	margin: 10px;
+	color: grey;
 }
-.acc-txtlay{
-	margin: 20px;
+.exm a{
+	color: grey;
+	margin: 10px;
 }
-.acc-txtlay-ttl{
-	margin: 15px 0px 15px 0px;
-}
-.acc-txtlay-info{
-	margin: 15px 0px 15px 0px;
-
-}
-.acc-txtlay-lrnmr{
-	margin: 15px 0px 15px 0px;
-}
-.branches-txtlay-ttl{
-	margin: 15px 0px 15px 0px;
-
-}
-.branches-txtlay-info{
-	margin: 15px 0px 15px 0px;
-
-}
-.branches-txtlay-lrnmr{
-
-	margin: 15px 0px 15px 0px;
-}
-
