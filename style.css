@@ -167,3 +167,56 @@ table {
 .end div h6{
 	margin-bottom: 5px;
 }
+@media(max-width:500px){
+	.main-nav{	
+		height: 70px;
+		width: 100%;
+		padding: 0px;
+	}
+	.icn-nav{
+		margin-left: 10px;
+	}
+	.tile-nav{
+		font-size: 12px;
+	}
+	.btn1-nav{
+		display: none;
+	}
+	.btn2-nav{
+		margin-right: 10px;
+	}
+	.tile-sec1{
+		font-size: 35px;
+	}
+	.frm-sec input{
+		width: 350px;
+	}
+	.after-fstsec{
+		padding-left: 10px;
+		padding-right: 10px;
+		display: flex;
+		flex-direction: column;
+	} 
+	.exm{
+		margin: 15px;
+	}
+	.exm h5{
+		margin: 5px;
+	}
+	.exm p{
+		margin: 5px;
+	}
+	.exm a{
+		margin: 5px;
+	}
+	.end{
+		padding: 0px;
+		height: 110px;
+	}
+	.end div h4{
+		font-size: 12px;
+	}
+	.end div h6{
+		font-size: 10px;
+	}
+}
